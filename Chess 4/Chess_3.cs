@@ -94,7 +94,7 @@ namespace Chess_4
     }
 
     public class Bishop : Figure
-    {
+    { 
         public Bishop(int x, int y) : base(x, y)
         {
 
